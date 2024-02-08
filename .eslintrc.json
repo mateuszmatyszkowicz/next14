@@ -12,7 +12,7 @@
 		"prettier",
 		"next/core-web-vitals"
 	],
-  
+
 	"rules": {
 		// sort imports
 		"import/order": "error",
